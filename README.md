@@ -1,6 +1,5 @@
-<div align="center">
-![BearCheats](https://github.com/Terephia/Fortnite-Ch3at/assets/152405740/f59d939e-a5fb-4536-9058-892512b18cbc)
-</div>
+
+![BearCheats](https://github.com/Terephia/Fortnite-Ch3at/assets/152405740/ee64cef5-c730-4101-880b-2bca9c0785d9)
 
 ---
 
